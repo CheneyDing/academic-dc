@@ -6,7 +6,7 @@ title: Ding Chen
 superuser: true
 
 # Role/position/tagline
-role: Students of Computer Architecture
+role: Student of Computer Architecture
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,12 +14,12 @@ organizations:
     url: https://hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed sytems, storage system and database.
+bio: My research interests include distributed sytems, storage systems and database.
 
 # Interests to show in About widget
 interests:
-  - Computer Architecture
-  - Storage System
+  - Distributed Systems
+  - Storage Systems
   - Database
 
 # Education to show in About widget
