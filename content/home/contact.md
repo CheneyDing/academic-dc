@@ -28,16 +28,16 @@ content:
   email: cding@hust.edu.cn
   # phone: 888 888 88 88
   address:
-    street: 洪山区珞喻路1037号
-    city: 武汉
-    region: 湖北
+    street: No.1037, Luoyu Road, Hongshan District
+    city: Wuhan
+    region: Hubei
     postcode: '430079'
     country: China
     country_code: CN
   coordinates:
     latitude: '30.5064'
     longitude: '114.4339'
-  directions: 武汉光电国家研究中心 B521
+  directions: B521, Wuhan National Laboratory for Optoelectronics
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
