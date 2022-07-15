@@ -29,16 +29,16 @@ experience:
     location: Beijing
     date_start: '2020-10-01'
     date_end: '2021-04-30'
-    description: Implementation and testing of automatic elastic scaling.
+    description: Design and implement an AutoScaler for TiKV.
 
-  - title: Intern of HPC
+  - title: Intern of HPC Lab
     company: HuaWei
     company_url: ''
     company_logo: huawei
     location: Hangzhou
     date_start: '2018-10-01'
     date_end: '2019-05-31'
-    description: Design and implemention of a zero-copy user space file system.
+    description: Design and implement a zero-copy user space file system for HPC applications.
 
 design:
   columns: '2'
