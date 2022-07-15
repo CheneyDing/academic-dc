@@ -31,12 +31,12 @@ publication_types: ['1']
 publication: In *International Conference on Artificial Intelligence and Computer Science*
 publication_short: "AICS"
 
-abstract:
+abstract: Non-Volatile Memory (NVM) is a new type of storage media with non-volatile data, higher storage density, better performance and concurrency. Persistent key-value stores designed for earlier storage devices, using Log-Structured Merge Tree (LSM-Tree), have serious read-write amplification problem and do not take full advantage of these new devices. Existing works on NVM index structure are mostly based on Radix-Tree or B+-Tree, index structure based on Radix-Tree has better performance but takes up more space. In this paper, we present a new index structure named HybridTree on NVM. HybridTree combines the characteristics of Radix-Tree and B+-Tree. The upper layer is composed of prefix index nodes similar to Radix-Tree, which is indexed by the key prefix speed up data locating, and providing multi-thread support. The lower layer consists of variable-length adaptive B+-Tree nodes organizing key-value data to reduce space waste caused by node sparseness. We evaluate HybridTree on a real NVM devices (Inter Optane DC Persistent Memory). Evaluation results show that HybridTree’s random write performance is 1.2x to 1.62x compared to Fast & Fair and 1.11x to 1.52x compared to NV-Tree, with 54% space utilization reduced compared to WORT. We further integrate HybridTree into LevelDB to build a high performance key-value store HybridKV. By storing HybridTree directly on NVM, the problem of read and write amplification of LSM-Tree is avoided. We evaluate HybridKV on a hybrid DRAM/NVM systems, according to the results, HybridKV can improve random write performance by 7.5x compared to LevelDB and 3.23x compared to RocksDB. In addition, the random read performance of HybridKV is 7x compared to NoveLSM.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [Key-Value Store, Persistent Memory, Index]
 
 # Display this page in the Featured widget?
 featured: false
@@ -76,13 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

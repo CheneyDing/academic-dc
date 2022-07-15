@@ -41,7 +41,7 @@ abstract: Popular LSM-tree based key-value stores suffer from suboptimal and unp
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Key-value Store, LSM-tree, Persistent Memory]
+tags: [Key-Value Store, LSM-tree, Persistent Memory]
 
 # Display this page in the Featured widget?
 featured: false
@@ -82,12 +82,4 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
