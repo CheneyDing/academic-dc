@@ -61,4 +61,5 @@ email: ''
 highlight_name: true
 ---
 
+
 I'm Chen Ding, a second-year Ph.D. candidate in [Computer Architecture](http://cs.hust.edu.cn/index.htm) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). I am part of the Parallel Data Storage Lab (PDSL) at [Wuhan National Laboratory for Optoelectronics](http://wnlo.hust.edu.cn/), advised by [Prof. Jiguang Wan](http://faculty.hust.edu.cn/wanjiguang/en/index.htm). My research interests include operating systems and distributed databases. I'm currently researching how to leverage emerging new hardware, such as Optane SSD, Persistent Memory, and Data Processing Unit, to optimise key-value stores. Also, I'm interested in optimizing storage systems for AI as well as leveraging AI techniques to optimise storage systems.
