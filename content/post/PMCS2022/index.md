@@ -51,18 +51,18 @@ categories:
 - **Key Notes**: 
   - **[Inventing Our Way Around the Memory Wall](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Coughlin-Handy-Inventing-Memory-Wall.pdf)**
 
-- **Serveral way to achieve Computational Storage:**
+- **Serveral ways to achieve Computational Storage:**
   - FPGA-based SmartSSD: **[Innovation with SmartSSD for Green Computing](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Ki-Innovation-With-Smart-SSD-for-Green-Computing.pdf)**
   - NVMe Support for CSD: **[NVMe Computational Storage](https://www.snia.org/sites/default/files/SDC/2021/pdfs/SNIA-SDC21-Malone-Bates-NVMe-CS.pdf)**
   - DPU-based Computational Storage: **[GPU+DPU for Computational Storage](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Davis-GPU-and-DPU-in-Computational-Storage.pdf)**
 
-- **Application of Compuational Storage:**
+- **Applications of Compuational Storage:**
   - Virtualization: **[Computational Storage in a Virtualized Environment](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Kim-Mesnier-Computational-Storage-in-a-Virtualized-Environment.pdf)**
   - Big Data Analysis: **[Accelerating Near Real-time Algorithms Using Disaggregated Computational Storage](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Saxena-Accelerating-Near-Real-Time-Algorithms.pdf)**
   - File System: **[File System Acceleration Using Computational Storage For Efficient Data Storage](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Malyala-Vaishnavi-Nagula-File-System-Acceleration-Using-CS.pdf)**
   - AI/ML: **[Evolving Storage for a New Generation of AI/ML](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-Roy-Evolving-Storage-For-New-Generation.pdf)**
   
-- **Programmability:**
+- **Programmabilities:**
   - **[Programing with Computational Storage](https://www.snia.org/sites/default/files/PM-Summit/2022/PMCS22-PInto-Programming-with-CS.pdf)**
 
 ## Persistent Memory
