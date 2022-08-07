@@ -12,4 +12,4 @@ design:
   columns: '2'
 ---
 
-- *[Jul. 2022]* One paper got accepted by [IEEE TPDS 2022](https://www.computer.org/csdl/journal/td).
+- **[Jul. 2022]** One paper got accepted by [IEEE TPDS 2022](https://www.computer.org/csdl/journal/td).
