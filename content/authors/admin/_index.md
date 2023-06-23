@@ -62,4 +62,4 @@ highlight_name: true
 ---
 
 
-I am a Ph.D. candidate at Huazhong University of Science and Technology (HUST). I am part of the Parallel Data Storage Lab (PDSL) at Wuhan National Laboratory for Optoelectronics, advised by [Prof. Jiguang Wan](http://faculty.hust.edu.cn/wanjiguang/en/index.htm). My current research focus is on designing and optimizing storage systems for emerging data-centric architecture. 
+I am a Ph.D. candidate at Huazhong University of Science and Technology (HUST). I am part of the Parallel Data Storage Lab (PDSL) at Wuhan National Laboratory for Optoelectronics, advised by [Prof. Jiguang Wan](http://faculty.hust.edu.cn/wanjiguang/en/index.htm). My current research focus is on designing and optimizing storage systems (e.g., key-value stores) for emerging data-centric architecture. 
