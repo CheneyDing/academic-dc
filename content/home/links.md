@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 40  # section position on page
+weight: 80  # section position on page
 
 # ... Put Your Section Options Here (title etc.) ...
 title: News
