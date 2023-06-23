@@ -10,17 +10,17 @@ role: Ph.D. Candidate of Computer Architecture
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Huazhong University of Science and Technology
+  - name: HUST
     url: https://hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include operating sytems, storage systems and ditributed databases.
+bio: My research interests include storage systems and databases.
 
 # Interests to show in About widget
 interests:
-  - Operating Systems
   - Storage Systems
-  - Distributed Databases
+  - Databases
+  - Emerging New Hardware (e.g., DPUs, NVM)
 
 # Education to show in About widget
 education:
@@ -62,4 +62,4 @@ highlight_name: true
 ---
 
 
-I'm Chen Ding, a second-year Ph.D. candidate in [Computer Architecture](http://cs.hust.edu.cn/index.htm) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). I am part of the Parallel Data Storage Lab (PDSL) at [Wuhan National Laboratory for Optoelectronics](http://wnlo.hust.edu.cn/), advised by [Prof. Jiguang Wan](http://faculty.hust.edu.cn/wanjiguang/en/index.htm). My research interests include operating systems and distributed databases. I'm currently researching how to leverage emerging new hardware, such as Optane SSD, Persistent Memory, and Data Processing Unit, to optimise key-value stores. Also, I'm interested in optimizing storage systems for AI as well as leveraging AI techniques to optimise storage systems.
+I am a Ph.D. candidate at Huazhong University of Science and Technology (HUST). I am part of the Parallel Data Storage Lab (PDSL) at Wuhan National Laboratory for Optoelectronics, advised by [Prof. Jiguang Wan](http://faculty.hust.edu.cn/wanjiguang/en/index.htm). My current research focus is on designing and optimizing storage systems (e.g., key-value stores) for emerging data-centric architecture. 
