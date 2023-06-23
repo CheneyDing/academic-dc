@@ -4,12 +4,10 @@ headless: true
 weight: 80  # section position on page
 
 # ... Put Your Section Options Here (title etc.) ...
-title: News
+title: Useful Links
 subtitle:
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-
-- **[Jul. 2022]** One paper got accepted by [IEEE TPDS 2022](https://www.computer.org/csdl/journal/td).
